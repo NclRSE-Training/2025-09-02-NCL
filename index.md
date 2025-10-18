@@ -13,7 +13,7 @@ humandate: "2025-09-02"    # human-readable dates for the workshop (e.g., "Feb 1
 humantime: "09:00 to 17:00 (UTC + 1)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-09-02      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-09-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Carol Booth","Dr Robin Wardle"]
+instructor: ["Carol Booth","Dr Robin Nandi"]
 helper: ["Daniel Basil","Dr Jannetta Steyn"]
 email: ["training.researchcomputing@newcastle.ac.uk"]
 collaborative_notes: https://hackmd.io/@RSETeam/2025-09-02-NCL/edit # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
